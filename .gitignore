@@ -1,0 +1,38 @@
+# Data files (large / proprietary)
+data/reference/
+data/dem/
+data/sentinel2/
+
+# Raster outputs (on external drive)
+*.tif
+*.jp2
+*.img
+
+# Vector data
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.gpkg-wal
+*.gpkg-shm
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Credentials
+.env
+config_secret.py
+
+# Claude internal
+.claude/
+
+# OS
+.DS_Store

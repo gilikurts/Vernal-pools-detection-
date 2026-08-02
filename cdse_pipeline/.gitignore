@@ -1,0 +1,6 @@
+.env
+sentinel2_data/
+*.jp2
+__pycache__/
+*.pyc
+manifest.csv
