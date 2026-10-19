@@ -136,12 +136,3 @@ years:
 ### Visual examples
 
 ![NDWI time series of one vernal pool over two winters](pipeline/visual/output/readme_pool_timeseries.png)
-
-NDWI time series of one real, GT-matched pool, across two winters: a clear,
-solid teal patch through the winter months (December-March), completely gone
-by summer (July-August).
-
-![Detected pools vs. INPA ground-truth polygon](pipeline/visual/output/readme_gt_validation.png)
-
-The same pool (its two sub-components, detected in 2023-2024 and 2024-2025)
-plotted against the INPA ground-truth polygon it falls inside of.
